@@ -7,3 +7,4 @@ window.alert(welcome to my page);
 </script>
 
 </body>
+</html>
